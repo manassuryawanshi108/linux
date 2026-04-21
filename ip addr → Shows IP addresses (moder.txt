@@ -1,0 +1,5 @@
+ip addr → Shows IP addresses (modern replacement for ifconfig)
+ip link → Shows network interfaces
+ip route → Shows routing table
+hostname → Shows system hostname
+uname -a
